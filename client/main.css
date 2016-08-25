@@ -1,0 +1,7 @@
+/* CSS declarations go here */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  min-height: 100%;
+  background: white;
+}
